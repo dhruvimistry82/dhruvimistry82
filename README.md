@@ -26,16 +26,7 @@ I'm a cloud and data enthusiast who enjoys solving real-world problems with scal
 - 🛡 **Secure Cloud App** – Built on AWS (Cognito, S3, CloudFront, AppSync, Glue)  
 - 🔍 **Crime Analytics Dashboard** – Data-driven insights on city crime trends using Power BI
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvimistry&show_icons=true&theme=default" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvimistry&layout=compact&theme=default" alt="Top Languages" height="165">
-</p>
-
----
 
 ## 📫 Let’s Connect!
 
